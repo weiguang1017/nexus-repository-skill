@@ -1,5 +1,5 @@
 ---
-name: "restartx-nexus-skills"
+name: "devops-nexus-skills"
 version: "1.1.0"
 display_name: "Nexus 制品库管理技能"
 display_name_en: "Nexus Repository Skill"
