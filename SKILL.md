@@ -1,6 +1,11 @@
 ---
-name: nexus-skills
-description: Manage Sonatype Nexus Repository 3 from the command line — list repositories, search components/assets, list components in a repo, upload files to raw hosted repos, download assets, and delete components. Use whenever the user wants to browse a Nexus repo, find an artifact, publish a file, or clean up components. 中文触发场景：查制品库、搜制品、上传文件、下载制品、清理组件。
+name: "restartx-nexus-skills"
+version: "1.1.0"
+display_name: "Nexus 制品库管理技能"
+display_name_en: "Nexus Repository Skill"
+description: "Manage Sonatype Nexus Repository 3 from the command line — list repositories, search components/assets, list components in a repo, upload files to raw hosted repos, download assets, and delete components. Use whenever the user wants to browse a Nexus repo, find an artifact, publish a file, or clean up components. 中文触发场景：查制品库、搜制品、上传文件、下载制品、清理组件。"
+description_zh: "用命令行直接操作 Sonatype Nexus Repository 3：列仓库、搜制品、上传/下载文件、清理组件。兼容 Nexus Repository Manager 3.0+。"
+description_en: "Operate Sonatype Nexus Repository 3 from the command line: list repositories, search components, upload and download assets, delete components. Supports Nexus Repository Manager 3.0+."
 ---
 
 # Nexus 技能（命令行实操）
